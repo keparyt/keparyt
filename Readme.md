@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/kepardev-banner.svg" width="100%" alt="KeparDEV"/>
+<img src="./assets/kepardev-profilebanner.gif" width="100%" alt="KeparDEV"/>
 
 <br>
 
